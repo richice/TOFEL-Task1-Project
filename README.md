@@ -19,3 +19,5 @@ This is a Python Tkinter application that helps prepare for the independent spea
 5. Repeat to practice with different prompts
 
 This application provides a simple way to practice responses and time management for the TOEFL independent speaking section. Customize the DOCX as needed for different prompts tailored to your needs.
+![image](https://github.com/richice/TOFEL-Task1-project/assets/99071400/697e5851-5319-488b-aeec-37d2a0288933)
+![image](https://github.com/richice/TOFEL-Task1-project/assets/99071400/23dd1ee1-40ee-4d52-943a-c13913ef5c3b)
